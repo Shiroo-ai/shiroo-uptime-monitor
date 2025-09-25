@@ -15,8 +15,8 @@ status-website:
   baseUrl: /shiroo-uptime-monitor
   logoUrl: https://cdn.prod.website-files.com/6710b572c4cfa11400efed52/67b4525e15d113de7ca28224_Shiroo%20Icon%20Without%20Text.png
   name: Shiroo
-  introTitle: "**Shiroo** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Surveillance des environnements Shiroo.ai"
+  introMessage: "Cette page vous permet de visualiser l'état des différents environnements de l'application Shiroo.ai, de suivre les incidents en cours ainsi que les maintenances prévues."
   navbar:
     - title: Status
       href: /
