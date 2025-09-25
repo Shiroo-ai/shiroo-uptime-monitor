@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /shiroo-uptime-monitor
+  baseUrl: /
   logoUrl: https://cdn.prod.website-files.com/6710b572c4cfa11400efed52/67b4525e15d113de7ca28224_Shiroo%20Icon%20Without%20Text.png
   name: Shiroo
   introTitle: "**Shiroo** is the open-source uptime monitor and status page, powered entirely by GitHub."
