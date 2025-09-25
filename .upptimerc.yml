@@ -19,7 +19,7 @@ status-website:
   baseUrl: /shiroo-uptime-monitor
   logoUrl: https://cdn.prod.website-files.com/6710b572c4cfa11400efed52/67b4525e15d113de7ca28224_Shiroo%20Icon%20Without%20Text.png
   name: Shiroo
-  themeUrl: https://shiroo-ai.github.io/shiroo-uptime-monitor/shiroo-theme.css
+  # themeUrl: https://shiroo-ai.github.io/shiroo-uptime-monitor/shiroo-theme.css
   introTitle: "Surveillance des environnements Shiroo.ai"
   introMessage: "Cette page vous permet de visualiser l'état des différents environnements de l'application Shiroo.ai, de suivre les incidents en cours ainsi que les maintenances prévues."
   navbar:
