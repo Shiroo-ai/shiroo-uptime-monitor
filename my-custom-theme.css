@@ -1,0 +1,22 @@
+:root {
+    /* Fonds et arrière plans */
+    --body-background-color: #E8E8E8; /* Gris clair chaud */
+    --card-background-color: #D2B8E3; /* Violet clair */
+    --nav-background-color: #9747FF;  /* Violet principal */
+    --nav-border-bottom-color: #6C3483; /* Violet foncé */
+
+    /* Textes */
+    --body-text-color: #6C3483;  /* Violet foncé */
+    --muted-text-color: #B0B0B0; /* Gris foncé (secondaire) */
+
+    /* Bordures et éléments secondaires */
+    --border-color: #B0B0B0; /* Gris foncé */
+
+    /* Accent et liens */
+    --accent-color: #9747FF; /* Violet principal */
+    --accent-contrast-color: #ffffff;
+    --link-color: #B131E5; /* Violet secondaire */
+    --success-color: #2ed6a5;
+    --warning-color: #f4c363;
+    --error-color: #f37d7d;
+  }
