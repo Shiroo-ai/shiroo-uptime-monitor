@@ -4,12 +4,12 @@ delay: 2000
 
 assignees:
   - kdelfour
-  
+
 sites:
-  - name: Shiroo staging
-    url: https://app.shiroo.staging.araiko.ai
-  - name: Shiroo production
+  - name: Shiroo app production
     url: https://app.shiroo.ai
+  - name: Shiroo app staging
+    url: https://app.shiroo.staging.araiko.ai
   - name: Shiroo website
     url: https://www.shiroo.ai/
 
