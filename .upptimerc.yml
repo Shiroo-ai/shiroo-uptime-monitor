@@ -5,12 +5,32 @@ assignees:
   - kdelfour
 
 sites:
-  - name: Shiroo app production
+  # Applications
+  - name: Shiroo app Production
     url: https://app.shiroo.ai
-  - name: Shiroo app staging
+  - name: Shiroo app Staging
     url: https://app.shiroo.staging.araiko.ai
+  # Website
   - name: Shiroo website
     url: https://www.shiroo.ai/
+  # OpenAI
+  - name: Shiroo AI Chat Completions
+    url: https://status.openai.com/api/v2/components/01JMXBRMFE6N2NNT7DG6XZQ6PW.json
+    method: GET
+    expectedStatusCodes: [200]
+    maxResponseTime: 10000
+    expectedBodyContains: '"status":"operational"'
+  - name: Shiroo AI Responses
+    url: https://status.openai.com/api/v2/components/01JP8CD9JR3HR6Y7G4Q75N4DVW.json
+    method: GET
+    expectedStatusCodes: [200]
+    maxResponseTime: 10000
+    expectedBodyContains: '"status":"operational"'
+  - name: Shiroo AI Audio Transcriptions
+    url: https://status.openai.com/api/v2/components/01JMXBRMFEKVBWKK82B44QFMCE.json
+    method: GET
+    expectedStatusCodes: [200]
+    expectedBodyContains: '"status":"operational"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
