@@ -94,9 +94,9 @@
     "url": "https://status.openai.com/api/v2/components/01JMXBRMFE6N2NNT7DG6XZQ6PW.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.openai.com.ico",
     "slug": "shiroo-ai-chat-completions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -106,6 +106,7 @@
     "timeMonth": 316,
     "timeYear": 314,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-07": 19
     }
   },
@@ -114,9 +115,9 @@
     "url": "https://status.openai.com/api/v2/components/01JP8CD9JR3HR6Y7G4Q75N4DVW.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.openai.com.ico",
     "slug": "shiroo-ai-responses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
@@ -126,6 +127,7 @@
     "timeMonth": 153,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-07": 19,
       "2025-10-20": 25
     }
@@ -135,7 +137,7 @@
     "url": "https://status.openai.com/api/v2/components/01JMXBRMFEKVBWKK82B44QFMCE.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.openai.com.ico",
     "slug": "shiroo-ai-audio-transcriptions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -147,6 +149,7 @@
     "timeMonth": 136,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-07": 19
     }
   }
