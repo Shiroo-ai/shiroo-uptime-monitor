@@ -1,7 +1,7 @@
 url: https://status.openai.com/api/v2/components/01JMXBRMFE6N2NNT7DG6XZQ6PW.json
-status: down
+status: degraded
 code: 404
-responseTime: 141
-lastUpdated: 2026-01-28T23:31:28.250Z
+responseTime: 23045
+lastUpdated: 2026-01-29T12:40:59.190Z
 startTime: 2025-10-10T09:18:50.113Z
 generator: Upptime <https://github.com/upptime/upptime>
