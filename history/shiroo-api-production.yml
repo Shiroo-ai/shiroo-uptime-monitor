@@ -1,7 +1,7 @@
 url: https://w1uco5w4y9.execute-api.eu-west-3.amazonaws.com/v1/
-status: down
+status: degraded
 code: 404
-responseTime: 450
-lastUpdated: 2026-04-24T23:46:21.896Z
+responseTime: 1100
+lastUpdated: 2026-04-25T19:58:32.432Z
 startTime: 2025-10-10T09:34:28.705Z
 generator: Upptime <https://github.com/upptime/upptime>
